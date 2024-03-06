@@ -1,0 +1,15 @@
+.input {
+    width: 50%;
+}
+.add-btn {
+    height: 55px;
+}
+.container {
+    text-align: left;
+    margin-top: 80px;
+    font-family: sans-serif;
+    display: flex;
+}
+.tasks-counter {
+  margin: 20px 0;
+}
